@@ -25,6 +25,7 @@ from .cnot import CNOT
 from .global_phase import GlobalPhase
 from .hadamard import Hadamard
 from .identity import Identity
+from .measure import Measure
 from .on_each import OnEach
 from .power import Power
 from .rotation import CZPowGate, Rx, Ry, Rz, XPowGate, YPowGate, ZPowGate
